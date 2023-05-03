@@ -1,6 +1,6 @@
 <template>
   <div class="bg-main min-h-screen max-w-600px mx-auto">
-    <!-- <img class="bg-image" src="../assets/images/bg.jpg" alt="Background"> -->
+    <TheNavbar />
     <div class="bg-image">
       <div class="bg-profile">
         <img src="../assets/images/user.png" alt="User Profile">
